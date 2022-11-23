@@ -48,7 +48,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: lumoshub 
-          password: S19n14ip_S
+          password: e5ss19e1_A
       - name: Push to Docker Hub
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2 
